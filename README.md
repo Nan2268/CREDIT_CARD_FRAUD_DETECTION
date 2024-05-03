@@ -1,1 +1,2 @@
 # CREDIT_CARD_FRAUD_DETECTION
+ A comprehensive analysis of credit card transaction data to detect fraudulent activities. Credit card fraud poses a significant threat to financial institutions and consumers alike, necessitating the development of effective detection systems. Leveraging advanced data analysis techniques, I aimed to identify patterns and anomalies indicative of fraudulent transactions within the dataset.
